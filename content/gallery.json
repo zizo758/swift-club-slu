@@ -1,0 +1,78 @@
+{
+  "categories": [
+    {
+      "slug": "meets",
+      "title": "Events",
+      "description": "Monthly park-ups and socials.",
+      "albums": [
+        {
+          "slug": "2025-05-mothers-day",
+          "title": "Mother's Day \u2014 May 2025",
+          "date": "2025-05-17",
+          "location": "Swift HQ",
+          "header": "Celebrating all the amazing moms in our club!",
+          "cover": "/gallery/2025-05-mothers-day/cover.jpg",
+          "images": [
+            "/gallery/2025-05-mothers-day/1.jpg",
+            "/gallery/2025-05-mothers-day/2.jpg",
+            "/gallery/2025-05-mothers-day/3.jpg",
+            "/gallery/2025-05-mothers-day/4.jpg",
+            "/gallery/2025-05-mothers-day/5.jpg",
+            "/gallery/2025-05-mothers-day/6.jpg",
+            "/gallery/2025-05-mothers-day/7.jpg",
+            "/gallery/2025-05-mothers-day/8.jpg",
+            "/gallery/2025-05-mothers-day/9.jpg",
+            "/gallery/2025-05-mothers-day/10.jpg"
+          ]
+        },
+        {
+          "slug": "2025-06-fathers-day",
+          "title": "Father's Day \u2014 June 2025",
+          "date": "2025-06-17",
+          "location": "Level Grounds, Dennery",
+          "header": "Celebrating all the amazing moms in our club!",
+          "cover": "/gallery/2025-06-fathers-day/cover.jpg",
+          "images": [
+            "/gallery/2025-06-fathers-day/1.jpg",
+            "/gallery/2025-06-fathers-day/2.jpg",
+            "/gallery/2025-06-fathers-day/3.jpg",
+            "/gallery/2025-06-fathers-day/4.jpg",
+            "/gallery/2025-06-fathers-day/5.jpg",
+            "/gallery/2025-06-fathers-day/6.jpg",
+            "/gallery/2025-06-fathers-day/7.jpg",
+            "/gallery/2025-06-fathers-day/8.jpg",
+            "/gallery/2025-06-fathers-day/9.jpg",
+            "/gallery/2025-06-fathers-day/10.jpg"
+          ]
+        },
+        {
+          "slug": "2025-07-Swift-fielder-day",
+          "title": "Swift club X Fielder Club \u2014 July 2025",
+          "date": "2025-07-05",
+          "location": "vigie beach, castries",
+          "header": "A worthwhile collaboration!",
+          "cover": "/gallery/2025-07-fielder-linkup/cover.jpg",
+          "images": [
+            "/gallery/2025-07-fielder-linkup/1.jpg",
+            "/gallery/2025-07-fielder-linkup/2.jpg",
+            "/gallery/2025-07-fielder-linkup/3.jpg",
+            "/gallery/2025-07-fielder-linkup/4.jpg",
+            "/gallery/2025-07-fielder-linkup/5.jpg",
+            "/gallery/2025-07-fielder-linkup/6.jpg",
+            "/gallery/2025-07-fielder-linkup/7.jpg",
+            "/gallery/2025-07-fielder-linkup/8.jpg",
+            "/gallery/2025-07-fielder-linkup/9.jpg",
+            "/gallery/2025-07-fielder-linkup/10.jpg",
+            "/gallery/2025-07-fielder-linkup/11.jpg",
+            "/gallery/2025-07-fielder-linkup/12.jpg",
+            "/gallery/2025-07-fielder-linkup/13.jpg",
+            "/gallery/2025-07-fielder-linkup/14.jpg",
+            "/gallery/2025-07-fielder-linkup/15.jpg",
+            "/gallery/2025-07-fielder-linkup/16.jpg",
+            "/gallery/2025-07-fielder-linkup/17.jpg"
+          ]
+        }
+      ]
+    }
+  ]
+}

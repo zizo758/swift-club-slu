@@ -1,0 +1,29 @@
+[
+  {
+    "id": "next-meet",
+    "title": "Waterfall lime \u2014 come for the cars, stay for the vibes!",
+    "date": "2025-09-28T11:00:00-04:00",
+    "location": "waterfall location TBA",
+    "mapUrl": "https://maps.google.com/?q=Castries+Market",
+    "details": "Meet & greet, Food, Drinks and Of Course, VYBES!. come cool off",
+    "image": "/logo.png"
+  },
+  {
+    "id": "creole-day",
+    "title": "Creole Day Link-Up \u2014 Kwéyòl Vybes, Swift Style!",
+    "date": "2025-10-25T09:00:00-20:00",
+    "location": "Vieux Fort Industrial Estate",
+    "mapUrl": "https://maps.google.com/?q=Vieux+Fort+Industrial+Estate",
+    "details": "Come celebrate our culture with our amazing Swift Family!",
+    "image": "/swifts.jpg"
+  },
+  {
+    "id": "Family-day",
+    "title": "Family Day \u2014 One Family!",
+    "date": "2025-11-09T11:00:00-20:00",
+    "location": "Level Grounds, Dennery",
+    "mapUrl": "https://maps.app.goo.gl/uA4UBhA2TNYGPHuj7",
+    "details": "Come celebrate your family with our amazing Swift Family!",
+    "image": "/swifts.jpg"
+  }
+]

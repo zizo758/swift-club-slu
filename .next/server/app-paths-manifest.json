@@ -1,0 +1,8 @@
+{
+  "/page": "app/page.js",
+  "/gallery/page": "app/gallery/page.js",
+  "/gallery/[category]/[album]/page": "app/gallery/[category]/[album]/page.js",
+  "/gallery/[category]/page": "app/gallery/[category]/page.js",
+  "/news/page": "app/news/page.js",
+  "/news/[slug]/page": "app/news/[slug]/page.js"
+}

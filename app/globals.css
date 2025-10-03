@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { --logo-accent: #D4AF37; }
+
+html, body { @apply bg-white text-gray-900; }
+
+.tire-divider {
+  background-image:
+    linear-gradient(135deg, rgba(0,0,0,0.08) 25%, transparent 25%),
+    linear-gradient(225deg, rgba(0,0,0,0.08) 25%, transparent 25%),
+    linear-gradient(315deg, rgba(0,0,0,0.08) 25%, transparent 25%),
+    linear-gradient(45deg,  rgba(0,0,0,0.08) 25%, transparent 25%);
+  background-size: 16px 16px;
+  background-position: 0 0, 0 8px, 8px -8px, -8px 0px;
+}
+
+.odometer-badge {
+  @apply inline-flex items-center justify-center rounded px-2 py-1 text-xs font-mono bg-gray-100 border border-gray-200;
+}
