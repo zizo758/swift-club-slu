@@ -1,6 +1,7 @@
 "use client";
 import { useEffect, useMemo, useState } from "react";
 import events from "@/content/events.json";
+import { googleCalendarUrl } from "@/lib/calendar";
 
 const TZ = "America/St_Lucia";
 
@@ -151,6 +152,12 @@ function DayDetail({ selectedKey, map }: { selectedKey?: string; map: MapType })
             <div className="flex items-center gap-2">
               {ev.mapUrl && <a className="text-sm underline" href={ev.mapUrl} target="_blank" rel="noreferrer">Map</a>}
             </div>
+            <a className="text-sm underline" href={googleCalendarUrl(ev)} target="_blank" rel="noreferrer">
+  Add to Calendar
+</a>
+<a className="text-sm underline" href={`/api/ics/${ev.id}`} target="_blank" rel="noreferrer">
+  .ics
+</a>
           </div>
         ))}
       </div>

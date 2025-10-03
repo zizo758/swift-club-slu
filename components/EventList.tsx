@@ -1,4 +1,5 @@
 import events from "@/content/events.json";
+import { googleCalendarUrl } from "@/lib/calendar";
 
 export default function EventList() {
   const items = [...events].sort((a, b) => a.date > b.date ? 1 : -1);
@@ -13,6 +14,12 @@ export default function EventList() {
           </div>
           <div className="flex items-center gap-2">
             <a className="text-sm underline" href={ev.mapUrl} target="_blank" rel="noreferrer">Map</a>
+            <a className="text-sm underline" href={googleCalendarUrl(ev as any)} target="_blank" rel="noreferrer">
+  Add to Calendar
+</a>
+<a className="text-sm underline" href={`/api/ics/${ev.id}`} target="_blank" rel="noreferrer">
+  .ics
+</a>
           </div>
         </div>
       ))}

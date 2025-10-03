@@ -71,6 +71,59 @@
             "/gallery/2025-07-fielder-linkup/16.jpg",
             "/gallery/2025-07-fielder-linkup/17.jpg"
           ]
+        },
+        {
+          "slug": "2025-09-Paintball-day",
+          "title": "Paintball Day \u2014 September 2025",
+          "date": "2025-09-06",
+          "location": "Beanefield, Vieux Fort",
+          "header": "A day of fun and excitement!",
+          "cover": "/gallery/2025-09-swift-Paintball-day/cover.HEIC",
+          "images": [
+            "/gallery/2025-09-swift-Paintball-day/1.jpg",
+            "/gallery/2025-09-swift-Paintball-day/2.jpg",
+            "/gallery/2025-09-swift-Paintball-day/3.jpg",
+            "/gallery/2025-09-swift-Paintball-day/4.jpg",
+            "/gallery/2025-09-swift-Paintball-day/5.jpg",
+            "/gallery/2025-09-swift-Paintball-day/6.jpg",
+            "/gallery/2025-09-swift-Paintball-day/7.jpg",
+            "/gallery/2025-09-swift-Paintball-day/8.jpg",
+            "/gallery/2025-09-swift-Paintball-day/9.jpg",
+            "/gallery/2025-09-swift-Paintball-day/11.HEIC",
+            "/gallery/2025-09-swift-Paintball-day/12.HEIC",
+            "/gallery/2025-09-swift-Paintball-day/13.HEIC",
+            "/gallery/2025-09-swift-Paintball-day/14.HEIC",
+            "/gallery/2025-09-swift-Paintball-day/15.HEIC",
+            "/gallery/2025-09-swift-Paintball-day/10.HEIC",
+            "/gallery/2025-09-swift-Paintball-day/16.HEIC"
+          ]
+        },
+        {
+          "slug": "2025-08-Swift-back-to-school-drive",
+          "title": "Swift back to school drive \u2014 August 2025",
+          "date": "2025-08-05",
+          "location": "Odsan down to Marc and l'abbayee, castries",
+          "header": "Giving some of the youngsters a push right before school!",
+          "cover": "/gallery/2025-08-swift-back-to-school-drive/cover.jpg",
+          "images": [
+            "/gallery/2025-08-swift-back-to-school-drive/1.jpg",
+            "/gallery/2025-08-swift-back-to-school-drive/2.jpg",
+            "/gallery/2025-08-swift-back-to-school-drive/3.jpg",
+            "/gallery/2025-08-swift-back-to-school-drive/4.jpg",
+            "/gallery/2025-08-swift-back-to-school-drive/5.jpg",
+            "/gallery/2025-08-swift-back-to-school-drive/6.jpg",
+            "/gallery/2025-08-swift-back-to-school-drive/7.jpg",
+            "/gallery/2025-08-swift-back-to-school-drive/8.jpg",
+            "/gallery/2025-08-swift-back-to-school-drive/9.jpg",
+            "/gallery/2025-08-swift-back-to-school-drive/10.jpg",
+            "/gallery/2025-08-swift-back-to-school-drive/11.jpg",
+            "/gallery/2025-08-swift-back-to-school-drive/12.jpg",
+            "/gallery/2025-08-swift-back-to-school-drive/13.jpg",
+            "/gallery/2025-08-swift-back-to-school-drive/14.jpg",
+            "/gallery/2025-08-swift-back-to-school-drive/15.jpg",
+            "/gallery/2025-08-swift-back-to-school-drive/16.jpg",
+            "/gallery/2025-08-swift-back-to-school-drive/17.jpg"
+          ]
         }
       ]
     }

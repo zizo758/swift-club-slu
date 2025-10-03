@@ -1,6 +1,7 @@
 "use client";
 import { useEffect, useMemo, useState } from "react";
 import events from "@/content/events.json";
+import { googleCalendarUrl } from "@/lib/calendar";
 
 const TZ = "America/St_Lucia";
 
@@ -58,6 +59,14 @@ export default function NextMeetCard() {
               <a href={next.mapUrl} target="_blank" rel="noreferrer" className="odometer-badge underline">Map</a>
             </div>
             <p className="mt-4 text-gray-700">{next.details}</p>
+            <div className="mt-4 flex items-center gap-2">
+  <a className="odometer-badge underline" href={googleCalendarUrl(next as any)} target="_blank" rel="noreferrer">
+    Add to Google
+  </a>
+  <a className="odometer-badge underline" href={`/api/ics/${next.id}`} target="_blank" rel="noreferrer">
+    Download .ics
+  </a>
+</div>
 
             {mounted && countdown && (
               <div className="mt-6 flex flex-wrap gap-3" suppressHydrationWarning>
