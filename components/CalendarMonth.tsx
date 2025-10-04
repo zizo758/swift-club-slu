@@ -139,6 +139,9 @@ function DayDetail({ selectedKey, map }: { selectedKey?: string; map: MapType })
   return (
     <div className="border-t p-4">
       <h3 className="font-semibold">{header}</h3>
+      <p className="mt-1 text-xs italic text-gray-500">
+  Dates & times are subject to change.
+</p>
       <div className="mt-2 space-y-3">
         {items.map(ev => (
           <div key={ev.id} className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2 p-3 border rounded-lg">

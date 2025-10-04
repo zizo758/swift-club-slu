@@ -67,6 +67,10 @@ export default function NextMeetCard() {
     Download .ics
   </a>
 </div>
+<div className="mt-3 text-xs italic text-gray-500">
+  Dates & times are subject to change. Check our Instagram for last-minute updates.
+</div>
+
 
             {mounted && countdown && (
               <div className="mt-6 flex flex-wrap gap-3" suppressHydrationWarning>
