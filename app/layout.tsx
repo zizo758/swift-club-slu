@@ -5,7 +5,14 @@ import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
   title: "Swift Club SLU",
-  description: "Suzuki Swift owners & enthusiasts in Saint Lucia",
+  description: "Suzuki Swift owners & enthusiasts in Saint Lucia.",
+  themeColor: "#D4AF37",
+  icons: {
+    icon: "/icon.png",
+    apple: "/apple-icon.png",
+    shortcut: "/favicon.ico",
+    other: [{ rel: "mask-icon", url: "/mask-icon.svg", color: "#000000" }],
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
