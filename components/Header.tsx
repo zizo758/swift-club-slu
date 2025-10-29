@@ -31,7 +31,7 @@ export default function Header() {
         <div className="ml-auto flex items-center gap-2">
           {/* ACTIONS are now ALWAYS visible (mobile + desktop) */}
           <a
-            href="https://www.instagram.com/swiftsport_slu/"
+            href="https://www.instagram.com/swiftclubslu/"
             target="_blank"
             rel="noreferrer"
             className="text-sm px-3 py-2 border rounded-md hover:bg-gray-50"
