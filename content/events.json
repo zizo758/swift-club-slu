@@ -2,28 +2,11 @@
   {
     "id": "next-meet",
     "title": "Toy Drive \u2014 join us as we Spread the Love!",
-    "date": "2025-12-28T11:00:00-04:00",
-    "location": "Area TBA",
-    "mapUrl": "https://maps.google.com/?q=Castries+Market",
+    "date": "2025-12-13T09:00:00-04:00",
+    "location": "Choiseul/Saltibus, meet at KFC cul de-sac",
+    "mapUrl": "https://maps.app.goo.gl/pKtG425KZS1TF37j9",
     "details": "Every year we come together to spread some holiday cheer to the children in our community. Join us as we distribute toys and gifts to make this season special for those in need. Let's make a difference together and bring smiles to the faces of many!",
     "image": "/logo.png"
-  },
-  {
-    "id": "creole-day",
-    "title": "Creole Day Link-Up \u2014 Kwéyòl Vybes, Swift Style!",
-    "date": "2025-11-01T09:00:00-04:00",
-    "location": "Pigeon Point Beach,Gros Islet",
-    "mapUrl": "https://maps.app.goo.gl/rj32g4tFeop2r1mK6",
-    "details": "Come celebrate our culture with our amazing Swift Family!",
-    "image": "/creole.jpg"
-  },
-  {
-    "id": "Family-day",
-    "title": "Family Day \u2014 One Family!",
-    "date": "2025-11-09T11:00:00-20:00",
-    "location": "Level Grounds, Dennery",
-    "mapUrl": "https://maps.app.goo.gl/uA4UBhA2TNYGPHuj7",
-    "details": "Come celebrate your family with our amazing Swift Family!",
-    "image": "/swifts.jpg"
   }
+  
 ]
